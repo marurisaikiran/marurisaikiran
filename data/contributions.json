@@ -1,52 +1,17 @@
 {
  "username": "marurisaikiran",
- "generated_at": "2026-10-24T04:59:01+00:00",
+ "generated_at": "2026-10-25T05:14:44+00:00",
  "stats": {
-  "total": 74,
+  "total": 69,
   "current_streak": 11,
   "longest_streak": 11,
   "best_day": {
    "date": "2026-03-11",
    "count": 11
   },
-  "active_days": 30
+  "active_days": 29
  },
  "days": [
-  {
-   "date": "2025-10-19",
-   "count": 5,
-   "level": 2
-  },
-  {
-   "date": "2025-10-20",
-   "count": 0,
-   "level": 0
-  },
-  {
-   "date": "2025-10-21",
-   "count": 0,
-   "level": 0
-  },
-  {
-   "date": "2025-10-22",
-   "count": 0,
-   "level": 0
-  },
-  {
-   "date": "2025-10-23",
-   "count": 0,
-   "level": 0
-  },
-  {
-   "date": "2025-10-24",
-   "count": 0,
-   "level": 0
-  },
-  {
-   "date": "2025-10-25",
-   "count": 0,
-   "level": 0
-  },
   {
    "date": "2025-10-26",
    "count": 0,
@@ -1809,8 +1774,8 @@
   },
   {
    "date": "2026-10-13",
-   "count": 1,
-   "level": 1
+   "count": 0,
+   "level": 0
   },
   {
    "date": "2026-10-14",
@@ -1864,6 +1829,11 @@
   },
   {
    "date": "2026-10-24",
+   "count": 1,
+   "level": 1
+  },
+  {
+   "date": "2026-10-25",
    "count": 0,
    "level": 0
   }
